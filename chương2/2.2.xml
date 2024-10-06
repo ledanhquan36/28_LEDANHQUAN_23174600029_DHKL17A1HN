@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<DanhSachSinhVien>  
+    <SinhVien>  
+        <MaSinhVien>SV001</MaSinhVien>  
+        <TenSinhVien>Nguyen Van An</TenSinhVien>  
+        <NamSinh>2000</NamSinh>  
+        <Lop>17A1</Lop>  
+        <GioiTinh>Nam</GioiTinh>  
+    </SinhVien>  
+    <SinhVien>  
+        <MaSinhVien>SV002</MaSinhVien>  
+        <TenSinhVien>Nguyen Thi Minh</TenSinhVien>  
+        <NamSinh>2001</NamSinh>  
+        <Lop>17A2</Lop>  
+        <GioiTinh>Nữ</GioiTinh>  
+    </SinhVien>  
+    <SinhVien>  
+        <MaSinhVien>SV003</MaSinhVien>  
+        <TenSinhVien>Le Van Cuong</TenSinhVien>  
+        <NamSinh>2000</NamSinh>  
+        <Lop>17A1</Lop>  
+        <GioiTinh>Nam</GioiTinh>  
+    </SinhVien>  
+    <SinhVien>  
+        <MaSinhVien>SV004</MaSinhVien>  
+        <TenSinhVien>Nguyen Thi Tuyet</TenSinhVien>  
+        <NamSinh>2001</NamSinh>  
+        <Lop>17A2</Lop>  
+        <GioiTinh>Nữ</GioiTinh>  
+    </SinhVien>  
+</DanhSachSinhVien>
