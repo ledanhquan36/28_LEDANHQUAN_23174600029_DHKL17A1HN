@@ -1,0 +1,14 @@
+{  
+    "company": {  
+        "name": "Công Ty ABC",  
+        "address": "123 Đường ABC, Quận 1, TP.HN",  
+        "employees": [  
+            {"name": "Nguyễn Văn A", "unit": "IT"},  
+            {"name": "Trần Thị B", "unit": "Marketing"},  
+            {"name": "Lê Văn C", "unit": "IT"},  
+            {"name": "Phạm Thị D", "unit": "Sales"},  
+            {"name": "Nguyễn Thị E", "unit": "Marketing"},  
+            {"name": "Trần Văn F", "unit": "Sales"}  
+        ]  
+    }  
+}
